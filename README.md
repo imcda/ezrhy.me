@@ -1,4 +1,5 @@
 # ezrhy.me
+![EZrhy.me](http://davidfnck.qiniudn.com/ezrhyme.png)
 1. 试着做出一个有用的东西（当然，有可能已经有人做了……），帮助原创 Rapper 写出更好的 Punchline ，官方网站：http://ezrhy.me
 2. 自己练习一下 Python 的文本处理技能（跟 Rap 一点关系都没有……）
 

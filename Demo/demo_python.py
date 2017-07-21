@@ -5,11 +5,11 @@
 @Author    : davidfnck
 @contact   : davidfnck@gmail.com
 @Time      : 2017/7/16 下午9:46
-@Purpose   : 走通逻辑
-@Reference : 
+@Purpose   : 走通逻辑，用的是python
+@Reference :
 @File      : demo_python.py
 @Software  : PyCharm
-@PY.Version: 3.5
+@PY.Version: 2.7
 
 """
 

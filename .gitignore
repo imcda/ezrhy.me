@@ -99,3 +99,9 @@ ENV/
 
 # mypy
 .mypy_cache/
+
+# Exs
+/sqlite_Exs
+/pypinyin_Exs
+/Flask_Exs
+/Linode_MySQL_Exs

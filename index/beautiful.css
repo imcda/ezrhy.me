@@ -1,0 +1,36 @@
+#header {
+    font-size: 50px;
+    text-align:center;
+    padding-top:100px;
+}
+
+#input {
+    text-align:center;
+
+}
+
+#txt1 {
+    border-right: none;
+    border-top: none;
+    font-size: 40pt; /*www.52css.com*/
+    border-left: none;
+    border-bottom: #000000 5px solid;
+    background-color: #ffffff;
+    text-align:center;
+}
+
+#output {
+    text-align:center;
+    padding-top: 50px;
+    height:100px;
+}
+
+#result {
+    text-align:center;
+    padding-top: 5px;
+}
+
+#txtHint {
+    text-align:center;
+    font-size: 20px;
+}

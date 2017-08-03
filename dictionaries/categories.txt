@@ -1,0 +1,10 @@
+城市信息: index,167, pages,10
+自然科学: index,1,   pages,32
+社会科学: index,76,  pages.51
+工程应用: index,96,  pages,84
+农林渔畜: index,127, pages,10
+电子游戏: index,436  pages,115
+艺术设计: index,154  pages,20
+生活百科: index,389, pages,87
+运动休闲: index,367, pages,18
+人文科学: index,31,  pages,109
